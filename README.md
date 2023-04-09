@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Operating System Simulation**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/akash-deshmukh-523a77205/](https://www.linkedin.com/in/akash-deshmukh-523a77205/)
 
